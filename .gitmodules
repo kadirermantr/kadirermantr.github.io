@@ -1,0 +1,3 @@
+[submodule "themes/hugo-PaperMod"]
+	path = themes/LoveIt
+	url = https://github.com/kadirermantr/LoveIt
