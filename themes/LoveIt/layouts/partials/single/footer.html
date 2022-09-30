@@ -1,0 +1,37 @@
+{{- $params := .Scratch.Get "params" -}}
+
+<div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <section class="post-tags">
+                {{- with .Params.tags -}}
+                    <i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;
+                    {{- range $index, $value := . -}}
+                        {{- if gt $index 0 }},&nbsp;{{ end -}}
+                        {{- $tag := partialCached "function/path.html" $value $value | printf "/tags/%v" | $.Site.GetPage -}}
+                        <a href="{{ $tag.RelPermalink }}">{{ $tag.Title }}</a>
+                    {{- end -}}
+                {{- end -}}
+            </section>
+
+            <section align="right">
+                <div class="post-info-md">
+                    {{- if $params.linktomarkdown -}}
+                        {{- with .OutputFormats.Get "markdown" -}}
+                            <span>
+                                <a class="link-to-markdown" href="{{ .RelPermalink }}" target="_blank">
+                                    {{- T "readMarkdown" -}}
+                                </a>
+                            </span>
+                        {{- end -}}
+                    {{- end -}}
+                </div>
+                <div class="post-info-share">
+                    <span>
+                        {{- partial "plugin/share.html" . -}}
+                    </span>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>

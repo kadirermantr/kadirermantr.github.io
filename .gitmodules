@@ -1,0 +1,3 @@
+[submodule "LoveIt"]
+	path = LoveIt
+	url = https://github.com/kadirermantr/LoveIt
