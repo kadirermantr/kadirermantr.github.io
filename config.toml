@@ -169,7 +169,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Home page profile
     [params.home.profile]
       enable = true
-      avatarURL = "https://i.hizliresim.com/lqs9ie6.jpg"
+      avatarURL = "http://localhost:1313/images/profile.jpg"
       title = ""
       subtitle = "Welcome my personal page!"
       typeit = true
