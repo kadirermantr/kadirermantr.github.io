@@ -169,7 +169,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Home page profile
     [params.home.profile]
       enable = true
-      avatarURL = "http://localhost:1313/images/profile.jpg"
+      avatarURL = "https://kadirerman.com/images/profile.jpg"
       title = ""
       subtitle = "Welcome my personal page!"
       typeit = true
