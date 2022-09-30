@@ -6,6 +6,9 @@ description: ""
 
 draft: false
 
+comment:
+  enable: false
+
 ---
 
 If you have a any question or idea, you can contact me at kadirerman@gmail.com

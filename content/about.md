@@ -6,6 +6,9 @@ description: ""
 
 draft: false
 
+comment:
+  enable: false
+
 ---
 
 ## Close Up
