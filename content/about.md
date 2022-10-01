@@ -83,3 +83,7 @@ These mean nothing to me.
 
 We must respect and help each other and the environment.
 {{< /admonition >}}
+
+{{< admonition question "Did you help someone today?" false >}}
+{{< tweet 1575518773129379841 >}}
+{{< /admonition >}}
