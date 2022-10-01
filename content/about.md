@@ -32,7 +32,7 @@ I always like for trying new dishes, listening to new musics and doing new activ
 
 **Color:** Navy blue
 
-**Music:** Hello ~ Adele
+**Singer:** Adele
 
 **Music Video:** [Sarmaşık](https://youtu.be/weVh_KolH1E) ~ Mabel Matiz
 
