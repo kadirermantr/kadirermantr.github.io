@@ -22,7 +22,7 @@ I always like for trying new dishes, listening to new musics and doing new activ
 
 **Color:** Navy blue
 
-**Music:** Hello ~ Adele
+**Singer:** Adele
 
 **Music Video:** [Sarmaşık](https://youtu.be/weVh_KolH1E) ~ Mabel Matiz
 
@@ -72,5 +72,9 @@ What does it matter?
 These mean nothing to me.
 
 We must respect and help each other and the environment.
+{{< /admonition >}}
+
+{{< admonition question "Did you help someone today?" false >}}
+{{< tweet 1575518773129379841 >}}
 {{< /admonition >}}
 
