@@ -55,7 +55,15 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     url = "/background/"
     title = ""
   [[menu.main]]
-    weight = 4
+  weight = 4
+  identifier = "scrap"
+  pre = ""
+  post = ""
+  name = "Scrap"
+  url = "/scrap/"
+  title = ""
+  [[menu.main]]
+    weight = 5
     identifier = "contact"
     pre = ""
     post = ""
