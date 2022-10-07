@@ -15,11 +15,11 @@ My computers and technology background are shown below.
 
 ## Computers
 
-- Casper (desktop)
+- Casper
 - Asus K53TK
 - Acer Aspire F15
-- Monster Huma
-- MacBook Pro
+- Monster Huma H4
+- MacBook Pro M2
 
 ---
 
