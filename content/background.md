@@ -17,10 +17,10 @@ I work in the backend because of more interested in logical operations.
 
 ## Interests
 
-|                   |                                             |
-|-------------------|---------------------------------------------|
-| **LANGUAGES**     | C#, Java, PHP                               |
-| **CODING**        | Visual Studio, VS Code, PhpStorm |
-| **DATABASE**      | TablePlus, DataGrip                         |
-| **PLATFORM**      | Github, Trello, Bitbucket, Jira, Postman    |
-| **COMMUNICATION** | Slack, Discord                              |
+|                   |                                                           |
+|-------------------|-----------------------------------------------------------|
+| **LANGUAGES**     | C#, Java, PHP                                             |
+| **CODING**        | Visual Studio, VS Code, PhpStorm, WebStorm, IntelliJ IDEA |
+| **DATABASE**      | TablePlus, DataGrip                                       |
+| **PLATFORM**      | Github, Trello, Bitbucket, Jira, Postman                  |
+| **COMMUNICATION** | Slack, Discord                                            |
