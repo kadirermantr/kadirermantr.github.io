@@ -23,7 +23,7 @@ My computers and technology background are shown below.
 
 ---
 
-## Operating systems:
+## Operating systems
 
 - Windows XP
 - Windows Vista
