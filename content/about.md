@@ -22,7 +22,7 @@ I was born and raised in Türkiye 🇹🇷
 
 I've lived in many cities so far. Getting to know different cultures was a good experience for me.
 
-I live in Istanbul and plan to stay here for a while.It is the most populous European city and is cosmopolitan. Everything in this city moves at breakneck speed (even the turtles 😄)
+I live in Istanbul and plan to stay here for a while. It is the most populous European city and is cosmopolitan. Everything in this city moves at breakneck speed (even the turtles 😄)
 
 ## Favorites
 
