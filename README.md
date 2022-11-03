@@ -7,4 +7,6 @@
 
 ## Other
 
+- **Available languages:** English
 - **Theme:** [LoveIt](https://github.com/kadirermantr/LoveIt)
+- **Appearance:** Light, Dark
