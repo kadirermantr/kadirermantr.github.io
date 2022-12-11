@@ -19,7 +19,7 @@ I work in the backend because of more interested in logical operations.
 
 |                   |                                                           |
 |-------------------|-----------------------------------------------------------|
-| **LANGUAGES**     | C#, Java, PHP                                             |
+| **LANGUAGES**     | PHP, Angular                                              |
 | **CODING**        | Visual Studio, VS Code, PhpStorm, WebStorm, IntelliJ IDEA |
 | **DATABASE**      | TablePlus, DataGrip                                       |
 | **PLATFORM**      | Github, Trello, Bitbucket, Jira, ClickUp, GitLab          |
