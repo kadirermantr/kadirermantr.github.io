@@ -11,16 +11,16 @@ comment:
 
 ---
 
-I am a software developer who is enthusiastic about technology, computers and software. I enjoy experimenting with new things and is keen to provide content in these domains.
-
-I work in the backend because of more interested in logical operations.
+I am a software developer who is enthusiastic about technology, computers and software.
+I enjoy experimenting with new things and is keen to provide content in these domains.
 
 ## Interests
 
-|                   |                                                           |
-|-------------------|-----------------------------------------------------------|
-| **LANGUAGES**     | PHP, Angular                                              |
-| **CODING**        | Visual Studio, VS Code, PhpStorm, WebStorm, IntelliJ IDEA |
-| **DATABASE**      | TablePlus, DataGrip                                       |
-| **PLATFORM**      | Github, Trello, Bitbucket, Jira, ClickUp, GitLab          |
-| **COMMUNICATION** | Slack, Discord                                            |
+|                   |                                         |
+|-------------------|-----------------------------------------|
+| **LANGUAGES**     | PHP, JavaScript, TypeScript             |
+| **FRAMEWORKS**    | Laravel, Angular                        |
+| **CODING**        | PhpStorm, WebStorm, Visual Studio Code  |
+| **DATABASE**      | TablePlus, DataGrip                     |
+| **PLATFORM**      | Github, Trello, Bitbucket, Jira, GitLab |
+| **COMMUNICATION** | Slack, Discord                          |
