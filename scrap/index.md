@@ -20,5 +20,7 @@ My computers and technology background are shown below.
 - Windows 7
 - Windows 10
 - Windows 11
+- macOS Big Sur
 - macOS Monterey
+- macOS Ventura
 
