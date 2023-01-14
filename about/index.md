@@ -65,4 +65,8 @@ When I give them a gift they are often surprised and ask "what happened?". I say
     - Which political party do you support?
     - Which religion you belong to?
     - What is your sexual orientation?
+      ight or overweight. Religion, political beliefs, and sexual orientation can all differ.
 
+What does it matter?
+
+These mean nothing to me.
