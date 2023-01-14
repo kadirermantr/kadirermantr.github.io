@@ -66,17 +66,3 @@ When I give them a gift they are often surprised and ask "what happened?". I say
     - Which religion you belong to?
     - What is your sexual orientation?
 
-{{< admonition type=quote title="In my opinion" open=false >}}
-A person might be underweight or overweight. Religion, political beliefs, and sexual orientation can all differ.
-
-What does it matter?
-
-These mean nothing to me.
-
-We must respect and help each other and the environment.
-{{< /admonition >}}
-
-{{< admonition question "Did you help someone today?" false >}}
-{{< tweet 1575518773129379841 >}}
-{{< /admonition >}}
-
