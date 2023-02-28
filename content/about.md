@@ -15,14 +15,7 @@ comment:
 
 Hey everyone 👋
 
-My name is Kadir.
-
-I was born and bred in Türkiye 🇹🇷
-
-
-I've lived in many cities so far. Getting to know different cultures was a good experience for me.
-
-I live in Istanbul and plan to stay here for a while. It is the most populous European city and is cosmopolitan. Everything in this city moves at breakneck speed (even the turtles 😄)
+My name is Kadir. I was born and bred in Türkiye 🇹🇷 I've lived in many cities so far. Getting to know different cultures was a good experience for me.
 
 ## Favorites
 
@@ -45,21 +38,6 @@ I always like for trying new dishes, listening to new musics and doing new activ
 ### Cooking
 
 Cooking is like going on a journey for me. I love trying and tasting new recipes. My mom is a role model for me at this point. I have a lot of trust and respect for her hand flavor. Also she has a small restaurant at Bursa [@gulevyemekleri16](https://www.instagram.com/gulevyemekleri16)
-
-### CrossFit
-
-It makes me physically stronger and more resilient. Working with my friends and coaches are very enjoyable. Workouts are different every day.
-
-Thanks a lot to my dear gym [@crossfitaspera](https://www.instagram.com/crossfitaspera)
-
-![a ordinary workout](https://crossfitaspera.com/wp-content/uploads/2022/06/2.png)
-
-### Preparing Gifts
-
-It's important to me to think about the other person. I love giving gifts to my loved ones. Also, not just on special days like birthdays but any day.
-
-When I give them a gift they are often surprised and ask "what happened?". I say "nothing happened". They slowly get used to this situation.
-
 
 ## Important Points
 
