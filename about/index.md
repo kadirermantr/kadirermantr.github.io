@@ -5,7 +5,9 @@
 
 Hey everyone 👋
 
-My name is Kadir. I was born and bred in Türkiye 🇹🇷 I've lived in many cities so far. Getting to know different cultures was a good experience for me.
+My name is Kadir. I was born and bred in Türkiye 🇹🇷
+
+I've lived in many cities so far. Getting to know different cultures was a good experience for me.
 
 ## Favorites
 
