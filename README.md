@@ -1,14 +1,12 @@
 # kadirermantr.github.io
 
-## Technologies
-
-- **Programming language:** [Go](https://github.com/golang/go)
+- **Programming Language:** [Go](https://github.com/golang/go)
 - **Framework:** [Hugo](https://github.com/gohugoio/hugo)
 - **Server:** [GitHub Pages](https://pages.github.com)
-- **Deployment:** GitHub Actions
+- **Deployment:** [GitHub Actions](https://github.com/features/actions)
 
-## Other
+## Features
 
-- **Available languages:** English
+- **Available Languages:** English
 - **Theme:** [LoveIt](https://github.com/kadirermantr/LoveIt)
 - **Appearance:** Light, Dark
