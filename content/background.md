@@ -23,4 +23,4 @@ I enjoy experimenting with new things and is keen to provide content in these do
 | **CODING**        | PhpStorm, WebStorm, Visual Studio Code  |
 | **DATABASE**      | TablePlus, DataGrip                     |
 | **PLATFORM**      | Github, Trello, Bitbucket, Jira, GitLab |
-| **COMMUNICATION** | Slack, Discord                          |
+| **COMMUNICATION** | Slack, Discord, Google Meet             |
