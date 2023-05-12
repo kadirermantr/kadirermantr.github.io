@@ -16,11 +16,11 @@ I enjoy experimenting with new things and is keen to provide content in these do
 
 ## Interests
 
-|                   |                                         |
-|-------------------|-----------------------------------------|
-| **LANGUAGES**     | PHP, JavaScript, TypeScript             |
-| **FRAMEWORKS**    | Laravel, Angular                        |
-| **CODING**        | PhpStorm, WebStorm, Visual Studio Code  |
-| **DATABASE**      | TablePlus, DataGrip                     |
-| **PLATFORM**      | Github, Trello, Bitbucket, Jira, GitLab |
-| **COMMUNICATION** | Slack, Discord                          |
+|                   |                                        |
+|-------------------|----------------------------------------|
+| **LANGUAGES**     | PHP, JavaScript, TypeScript            |
+| **FRAMEWORKS**    | Laravel, Angular                       |
+| **CODING**        | PhpStorm, WebStorm, Visual Studio Code |
+| **DATABASE**      | TablePlus                              |
+| **PLATFORM**      | Github, Bitbucket, Jira, GitLab        |
+| **COMMUNICATION** | Slack, Discord                         |

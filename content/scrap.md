@@ -11,8 +11,6 @@ comment:
 
 ---
 
-My computers and technology background are shown below.
-
 ## Computers
 
 - Casper

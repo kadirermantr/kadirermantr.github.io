@@ -142,7 +142,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   #  Search config
   [params.search]
-    enable = true
+    enable = false
     # type of search engine ["lunr", "algolia"]
     type = "lunr"
     # max index length of the chunked content
@@ -171,7 +171,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       avatarURL = "https://kadirerman.com/images/profile.jpg"
       title = ""
-      subtitle = "Welcome to my house!"
+      subtitle = "Welcome!"
       typeit = true
       social = true
       disclaimer = ""
@@ -188,9 +188,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     GitHub = "kadirermantr"
     Linkedin = "kadirerman"
     Twitter = "kadirermantr"
-    Spotify = "s6pdmu4h1tjpvu9z7wo9utue2"
+    #Spotify = "s6pdmu4h1tjpvu9z7wo9utue2"
     Medium = "@kadirerman"
-    #Email = "kadirermantr@gmail.com"
+    Email = "kadirermantr@gmail.com"
     #Stackoverflow = "12637065"
     RSS = false
 
