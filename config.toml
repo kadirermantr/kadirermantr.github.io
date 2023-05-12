@@ -62,14 +62,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   name = "Scrap"
   url = "/scrap/"
   title = ""
-  [[menu.main]]
-    weight = 5
-    identifier = "contact"
-    pre = ""
-    post = ""
-    name = "Contact"
-    url = "/contact/"
-    title = ""
 
 [params]
   # site default theme ["auto", "light", "dark"]
