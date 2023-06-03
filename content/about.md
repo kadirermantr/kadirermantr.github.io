@@ -31,6 +31,6 @@ I always like for trying new dishes, listening to new musics and doing new activ
 
 ---
 
-I enjoy watching the Eurovision song contest.
+I enjoy watching the Eurovision song contest. My favorite artist is [Loreen](https://www.instagram.com/loreenofficial/) since 2012.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6dIfoJYnh3Qif1N4AYmfkf?utm_source=generator&theme=0" width="100%" height="460" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
