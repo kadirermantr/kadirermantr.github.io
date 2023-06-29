@@ -15,7 +15,7 @@ comment:
 
 Hey everyone 👋
 
-I'm Kadir. I was born and bred in Türkiye. I love coding and drinking coffee.
+I'm Kadir. I was born and raised in Türkiye. I love coding and drinking coffee.
 
 ## Favorites
 
