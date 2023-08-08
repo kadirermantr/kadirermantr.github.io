@@ -12,7 +12,7 @@ comment:
 ---
 
 I am a software developer who is enthusiastic about technology, computers and software.
-I enjoy experimenting with new things and is keen to provide content in these domains.
+I enjoy experimenting with new things and am keen to provide content in these domains.
 
 ## Interests
 
