@@ -1,8 +1,6 @@
 # About
 
 
-## Close Up
-
 Hey everyone 👋
 
 I'm Kadir. I was born and raised in Türkiye. I love coding and drinking coffee.
