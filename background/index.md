@@ -1,17 +1,17 @@
 # Background
 
 
-I am a software developer who is enthusiastic about technology, computers and software.
+I am a software engineer who is enthusiastic about technology, computers and software.
 I enjoy experiencing with new things and am keen to provide content in these domains.
 
 ## Interests
 
-|                   |                                        |
-|-------------------|----------------------------------------|
-| **LANGUAGES**     | PHP, JavaScript, TypeScript            |
-| **FRAMEWORKS**    | Laravel, Angular                       |
-| **CODING**        | PhpStorm, WebStorm, Visual Studio Code |
-| **DATABASE TOOLS**      | TablePlus                              |
-| **PLATFORM**      | Github, Bitbucket, Jira, GitLab        |
-| **COMMUNICATION** | Slack, Discord                         |
+|                    |                                        |
+|--------------------|----------------------------------------|
+| **LANGUAGES**      | PHP, C#, JavaScript, TypeScript        |
+| **FRAMEWORKS**     | Laravel, .NET, Angular                 |
+| **CODING**         | PhpStorm, WebStorm, Visual Studio Code |
+| **DATABASE TOOLS** | TablePlus                              |
+| **PLATFORM**       | Github, Bitbucket, Jira, GitLab        |
+| **COMMUNICATION**  | Slack, Discord                         |
 
