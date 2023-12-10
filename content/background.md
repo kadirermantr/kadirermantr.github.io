@@ -18,8 +18,8 @@ I enjoy experiencing with new things and am keen to provide content in these dom
 
 |                    |                                        |
 |--------------------|----------------------------------------|
-| **LANGUAGES**      | PHP, JavaScript, TypeScript            |
-| **FRAMEWORKS**     | Laravel, Angular                       |
+| **LANGUAGES**      | PHP, C#, JavaScript, TypeScript        |
+| **FRAMEWORKS**     | Laravel, .NET, Angular                 |
 | **CODING**         | PhpStorm, WebStorm, Visual Studio Code |
 | **DATABASE TOOLS** | TablePlus                              |
 | **PLATFORM**       | Github, Bitbucket, Jira, GitLab        |
