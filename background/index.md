@@ -6,12 +6,12 @@ I enjoy experiencing with new things and am keen to provide content in these dom
 
 ## Interests
 
-|                    |                                        |
-|--------------------|----------------------------------------|
-| **LANGUAGES**      | PHP, JavaScript, TypeScript            |
-| **FRAMEWORKS**     | Laravel, Symfony, Angular              |
-| **CODING**         | PhpStorm, WebStorm, Visual Studio Code |
-| **DATABASE TOOLS** | TablePlus                              |
-| **PLATFORM**       | Github, Bitbucket, Jira, GitLab        |
-| **COMMUNICATION**  | Slack, Discord                         |
+|                    |                                               |
+|--------------------|-----------------------------------------------|
+| **LANGUAGES**      | PHP, C#, JavaScript, TypeScript               |
+| **FRAMEWORKS**     | Laravel, .NET, Angular                        |
+| **CODING**         | PhpStorm, Rider, WebStorm, Visual Studio Code |
+| **DATABASE TOOLS** | TablePlus                                     |
+| **PLATFORM**       | Github, Bitbucket, Jira, GitLab               |
+| **COMMUNICATION**  | Slack, Discord                                |
 
